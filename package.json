@@ -1,8 +1,8 @@
 {
   "name": "song-dictionary",
   "version": "1.0.0",
+  "homepage": "https://tanisharajgor.github.io/song-dictionary/",
   "description": "",
-  "main": "index.js",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1",
