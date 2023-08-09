@@ -1,8 +1,9 @@
-Your number one station to find information for any kpop song! It's my cover buddy 🧸
+Your number one station to find information for any K-pop song! It's my cover buddy 🧸
 
 <img src="https://github.com/tanisharajgor/song-dictionary/assets/54627422/e8646dd3-766c-40fb-aca5-ebed9e1a8a63" alt="happy boi" height="5%" width="5%"/>
 
 Made with love ❤ ~Tani
+<a href="https://github.com/tanisharajgor/song-dictionary"><img src="https://img.shields.io/github/stars/tanisharajgor/song-dictionary?style=social" alt="stars - song-dictionary"></a>
 
 # Getting Started with Create React App
 
