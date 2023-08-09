@@ -3,7 +3,12 @@ Your number one station to find information for any K-pop song! It's my cover bu
 <img src="https://github.com/tanisharajgor/song-dictionary/assets/54627422/e8646dd3-766c-40fb-aca5-ebed9e1a8a63" alt="happy boi" height="5%" width="5%"/>
 
 Made with love ❤ ~Tani
+
+Like this project? Give it a ⭐! 
+
 <a href="https://github.com/tanisharajgor/song-dictionary"><img src="https://img.shields.io/github/stars/tanisharajgor/song-dictionary?style=social" alt="stars - song-dictionary"></a>
+<a href="https://github.com/tanisharajgor/song-dictionary/issues"><img src="https://img.shields.io/github/issues/tanisharajgor/song-dictionary?color=blue" alt="issues - song-dictionary"></a>
+
 
 # Getting Started with Create React App
 
