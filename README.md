@@ -1,6 +1,6 @@
 Your number one station to find information for any K-pop song! It's my cover buddy 🧸
 
-*Still in progress!
+***Still in progress!**
 
 <img src="https://github.com/tanisharajgor/song-dictionary/assets/54627422/e8646dd3-766c-40fb-aca5-ebed9e1a8a63" alt="happy boi" height="5%" width="5%"/>
 
