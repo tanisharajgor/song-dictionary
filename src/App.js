@@ -10,7 +10,6 @@ import { ParallaxLayer } from '@react-spring/parallax';
 
 
 function App() {
-  const picture = process.env.PUBLIC_URL + "/assets/piano.png";
   return (
     <div style={{ display: 'block' }}>
       <div style={{ padding: "0px 30px 0px 30px" }}>
