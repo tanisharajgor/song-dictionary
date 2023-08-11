@@ -1,4 +1,4 @@
-Your number one station to find information for any K-pop song! It's my cover buddy 🧸
+Your number one station to find information for any song! It's my cover buddy 🧸
 
 ***Still in progress!**
 
